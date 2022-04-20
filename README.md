@@ -60,11 +60,9 @@ Desde Server\teleasistencia ejecutamos ```python manage.py runserver```
 El software ha sido desarrollado bajo la licencia GPL3 por el departamento de Informática del IES Valle del Jerte de Plasencia, con la colaboración principal de Fréderic Sánchez, Angel Enrique Pineda y Jesús Redondo.
 
 Los alumnos que han contribuido en el desarrollo de este proyecto y la labor que han realizado son:
-- **Alumno Apellido**: Tarea desarrollada.
+
+- **Lucía González**: Creación de la primera versión del cliente Angular.
 
 Especial mención al departamento de Atención Sociosanitaria del IES San Martín de Talayuela. Partícipes e impulsores de la plataforma de prácticas de Teleasistencia. 
-
-
-
 
 [Sobre el Gitignore](https://djangowaves.com/tips-tricks/gitignore-for-a-django-project/)
